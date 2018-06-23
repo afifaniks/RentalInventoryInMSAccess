@@ -1,13 +1,13 @@
-##Sample RDBMS Project for Rental Inventory in MS Access.
+## Sample RDBMS Project for Rental Inventory in MS Access.
 
 
-![Sample]({{site.baseurl}}/Untitled.png)
+![Sample](Untitled.png)
 
 This is a sample project on MS Access Relational Database Management System .
 The project is not for commercial use. So, it lacks many features. You are welcome to
 add new features if you want. 
 
-##Features
+## Features
 - Secured Log In
 - Inventory Item Update, Browse, Delete, Datasheet
 - Customer Update, Browse, Delete
@@ -17,7 +17,7 @@ add new features if you want.
 
 
 
-##Log In Details
+## Log In Details
 username: admin
 
 password: 1234
